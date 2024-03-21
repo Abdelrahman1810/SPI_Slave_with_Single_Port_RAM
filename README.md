@@ -92,7 +92,7 @@ To get started with this repository, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 ```ruby
-git clone <// repo url //>
+git clone <https://github.com/Abdelrahman1810/SPI_Slave_with_Single_Port_RAM.git>
 ```
 2. Open QuestaSim and navigate to the directory where the repository is cloned.
 3. Compile the Verilog files by executing the following command in the QuestaSim transcript tap: 
