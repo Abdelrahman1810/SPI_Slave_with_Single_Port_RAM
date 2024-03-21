@@ -1,0 +1,7 @@
+Command: synth_design -rtl -top instantiation
+Starting synth_design
+Using part: xc7a35ticpg236-1L
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+1
+1 Infos, 0 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
