@@ -134,3 +134,16 @@ If you find any issues or have suggestions for improvement, feel free to submit 
 <a href="https://www.linkedin.com/in/abdelrahman-mohammed-814a9022a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Gmail : abdelrahmansalby23@gmail.com 📫
+
+### this project from Eng.Kareem Waseem diploma
+  <tbody>
+    <tr>
+      <td align="left" valign="top" width="14.28%">
+      <a href="https://www.linkedin.com/in/kareem-waseem/"><img src="https://media.licdn.com/dms/image/C5603AQGwfgJJNpo8MQ/profile-displayphoto-shrink_800_800/0/1549202493548?e=1721865600&v=beta&t=9azKJacf-SZ18LX4UHwEa4gYKDCTIqLEwEDFWIu19Ko" width="100px;" alt="Kareem Waseem"/><br /><sub><b>Kareem Waseem</b></sub></a>
+      <br /><a href="kwaseem94@gmail.com" title="Gmail">📧</a> 
+      <a href="https://www.linkedin.com/in/kareem-waseem/" title="LinkedIn">🌍</a>
+      <a href="https://linktr.ee/kareemw" title="Talks">📢</a>
+      <a href="https://www.facebook.com/groups/319864175836046" title="Facebook grp">💻</a>
+      </td>
+    </tr>
+  </tbody>
