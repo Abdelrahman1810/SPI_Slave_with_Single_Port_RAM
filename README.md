@@ -139,7 +139,7 @@ Gmail : abdelrahmansalby23@gmail.com 📫
   <tbody>
     <tr>
       <td align="left" valign="top" width="14.28%">
-      <a href="https://www.linkedin.com/in/kareem-waseem/"><img src="https://media.licdn.com/dms/image/C5603AQGwfgJJNpo8MQ/profile-displayphoto-shrink_800_800/0/1549202493548?e=1721865600&v=beta&t=9azKJacf-SZ18LX4UHwEa4gYKDCTIqLEwEDFWIu19Ko" width="100px;" alt="Kareem Waseem"/><br /><sub><b>Kareem Waseem</b></sub></a>
+      <a href="https://www.linkedin.com/in/kareem-waseem/"><img src="https://th.bing.com/th/id/OIP.gWfK4ytf9t3fZF2i2oE71QHaIi?rs=1&pid=ImgDetMain" width="100px;" alt="Kareem Waseem"/><br /><sub><b>Kareem Waseem</b></sub></a>
       <br /><a href="kwaseem94@gmail.com" title="Gmail">📧</a> 
       <a href="https://www.linkedin.com/in/kareem-waseem/" title="LinkedIn">🌍</a>
       <a href="https://linktr.ee/kareemw" title="Talks">📢</a>
